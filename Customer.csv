@@ -1,0 +1,16 @@
+CUSTOMER_CODE,CUSTOMER_DESCRIPTION,CUSTOMER_TYPE_CODE,CUSTOMER_TYPE_DESCRIPTION,CURRENCY_CODE,CURRENCY_DESCRIPTION
+CD,Countdown,DOM,Domestic,NZD,New Zealand Dollar
+SV,Super Value,DOM,Domestic,NZD,New Zealand Dollar
+FC,Fresh Choice,DOM,Domestic,NZD,New Zealand Dollar
+NW,New world,DOM,Domestic,NZD,New Zealand Dollar
+PS,Pak 'n save,DOM,Domestic,NZD,New Zealand Dollar
+FS,Four Square,DOM,Domestic,NZD,New Zealand Dollar
+PI,Penguino Ice Cream,DOM,Domestic,NZD,New Zealand Dollar
+DI,Duck Island Ice Cream,DOM,Domestic,NZD,New Zealand Dollar
+NN,New Zealand Naturals,DOM,Domestic,NZD,New Zealand Dollar
+KI,Kapiti Ice Cream,DOM,Domestic,NZD,New Zealand Dollar
+WA,Woolworths- Australia,EXP,Exports,NZD,New Zealand Dollar
+CO,Coles,EXP,Exports,NZD,New Zealand Dollar
+RI,Raro Ice- Creams,EXP,Exports,NZD,New Zealand Dollar
+FD,Fiji delight,EXP,Exports,NZD,New Zealand Dollar
+NC,New caledonia Ice-creams,EXP,Exports,NZD,New Zealand Dollar

@@ -1,0 +1,57 @@
+SKU_CODE,SKU_DESCRIPTION,CATEGORY_CODE,CATEGORY_DESCRIPTION,SUPPLIER_CODE,SUPPLIER_DESCRIPTION,SUPPLIER_LOCATION_CODE,SUPPLIER_LOCATION_NAME,SUPPLIER_CURRENCY,UNIT_MEAS,LEADTIME,MINIMUM_ORDER_QUANTITY,PRODUCTION_SITE,Shelf life_days
+550631849,Skim milk,CD114,Cow dairy,1,Pure Dairy NZ,WEL,Wellington,NZD,L,5,500,WEL1,10
+265579012,Cream,CD114,Cow dairy,1,Pure Dairy NZ,WEL,Wellington,NZD,L,5,500,WEL1,10
+714651069,Cane sugar,SU939,Sugar,2,Sweet Factory NZ,WEL,Wellington,NZD,KG,5,100,WEL1,730
+676435350,Glucose Syrup,SU939,Sugar,2,Sweet Factory NZ,WEL,Wellington,NZD,KG,5,100,WEL1,730
+725154688,Emulsifier 477,EM464,Emulsifier,3,Natural Food Additions,WEL,Wellington,NZD,KG,10,2,WEL1,720
+581293696,Emulsifier 471,EM464,Emulsifier,3,Natural Food Additions,WEL,Wellington,NZD,KG,10,2,WEL1,720
+655987264,Stabiliser 410,ST378,Stabiliser,3,Natural Food Additions,WEL,Wellington,NZD,KG,10,2,WEL1,365
+660613628,Stabiliser 407,ST378,Stabiliser,3,Natural Food Additions,WEL,Wellington,NZD,KG,10,2,WEL1,365
+413359704,Stabiliser 412,ST378,Stabiliser,3,Natural Food Additions,WEL,Wellington,NZD,KG,10,2,WEL1,365
+574098724,Natural vanilla bean paste,VA123,Vanilla,4,Vanilla Company,WEL,Wellington,NZD,KG,5,25,WEL1,365
+994277806,Cocoa powder,CO888,Cocoa,5,Power Foods,HAM,Hamilton,NZD,KG,7,50,WEL1,730
+375561889,Butterscotch Hokey Pokey,BU222,Butterscotch,6,Cookie industries,AUC,Auckland,NZD,KG,5,50,WEL1,120
+622187639,Ground almond,NU634,Nuts,5,Power Foods,WEL,Wellington,NZD,KG,10,50,WEL1,365
+919417658,Ground pistacchio,NU634,Nuts,5,Power Foods,WEL,Wellington,NZD,KG,10,50,WEL1,365
+671629652,Ground hazulnut,NU634,Nuts,5,Power Foods,WEL,Wellington,NZD,KG,10,50,WEL1,365
+610180467,Caramel sauce,CA629,Caramel,6,Cookie industries,AUC,Auckland,NZD,KG,7,50,WEL1,180
+160237097,Pecan,NU634,Nuts,5,Power Foods,WEL,Wellington,NZD,KG,10,50,WEL1,365
+354198921,Banana,FR333,Fruit,7,Natural fruits and veggies,HAM,Hamilton,NZD,KG,5,100,WEL1,10
+272035593,Oreo cookies,CO456,Cookies,6,Cookie industries,AUC,Auckland,NZD,KG,5,50,WEL1,90
+469660993,Cookie dough,CO456,Cookies,6,Cookie industries,AUC,Auckland,NZD,KG,5,50,WEL1,90
+213111389,Strawberries,FR333,Fruit,7,Natural fruits and veggies,HAM,Hamilton,NZD,KG,5,100,WEL1,10
+172114745,Raspberries,FR333,Fruit,7,Natural fruits and veggies,HAM,Hamilton,NZD,KG,5,100,WEL1,10
+508304563,Blueberries,FR333,Fruit,7,Natural fruits and veggies,HAM,Hamilton,NZD,KG,5,100,WEL1,10
+313329722,Lemon,FR333,Fruit,7,Natural fruits and veggies,HAM,Hamilton,NZD,KG,5,100,WEL1,10
+973406390,Coconut,FR333,Fruit,7,Natural fruits and veggies,HAM,Hamilton,NZD,KG,5,100,WEL1,10
+234925978,Citric acid,ST378,Stabiliser,3,Natural Food Additions,WEL,Wellington,NZD,KG,15,2,WEL1,365
+133353506,120ml ice cream pot,CC987,Consumer containers,8,Pauls Plastics,WEL,Wellington,NZD,ea,14,250,WEL2,720
+355728216,1 litre ice cream tub,CC987,Consumer containers,8,Pauls Plastics,WEL,Wellington,NZD,ea,14,100,WEL2,720
+456817897,500ml ice cream pot,CC987,Consumer containers,8,Pauls Plastics,WEL,Wellington,NZD,ea,14,250,CHR1,720
+765460405,2 litre ice cream tub,CC987,Consumer containers,8,Pauls Plastics,WEL,Wellington,NZD,ea,14,100,WEL2,720
+888386499,5 litre ice cream container,FC807,Food containers,9,Slimpack Solutions,CHR,Christchurch,NZD,ea,14,100,CHR1,1440
+634088689,10 litre ice cream container,FC807,Food containers,9,Slimpack Solutions,CHR,Christchurch,NZD,ea,14,50,CHR1,1440
+159150210,25 litre ice cream container,FC807,Food containers,9,Slimpack Solutions,CHR,Christchurch,NZD,ea,14,50,CHR1,1440
+972595402,50 litre ice cream container,FC807,Food containers,9,Slimpack Solutions,CHR,Christchurch,NZD,ea,14,50,CHR1,1440
+464712326,100 litre ice cream container,FC807,Food containers,9,Slimpack Solutions,CHR,Christchurch,NZD,ea,14,25,CHR1,1440
+266628627,Custom eco label size xs,EL345,Eco labels,10,Laura's labels,WEL,Wellington,NZD,ea,7,500,WEL2,720
+989645214,Custom eco label size s,EL345,Eco labels,10,Laura's labels,WEL,Wellington,NZD,ea,7,500,WEL2,720
+867028879,Custom eco label size m,EL345,Eco labels,10,Laura's labels,WEL,Wellington,NZD,ea,7,400,WEL2,720
+989645214,Custom eco label size s,EL345,Eco labels,10,Laura's labels,WEL,Wellington,NZD,ea,7,500,CHR1,720
+867028879,Custom eco label size m,EL345,Eco labels,10,Laura's labels,WEL,Wellington,NZD,ea,7,400,CHR1,720
+532376136,Custom eco label size l,EL345,Eco labels,10,Laura's labels,WEL,Wellington,NZD,ea,7,300,CHR1,720
+50378789,Vanilla base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+88208848,Chocolate base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+29516196,Banana base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+78018028,Almond base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+22321391,Pistacchio base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+71431762,Hazulnut base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+86462019,Caramel pecan base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+91274576,Butterscotch Hokey Pokey base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+16488601,Cookies and cream base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+83873317,Cookie dough base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+21805825,Strawberry base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+63950738,Raspberry base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+80156276,Blueberry base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+94825991,Lemon base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
+64514872,Coconut base,Semifinished,Base,11,Rainbow- Production,WEL 1,Wellington,,L,7,,WEL 1,21
